@@ -162,5 +162,5 @@ port_publisher:
     enabled: false
     public_port_start: 34000
   additional_services:
-    enabled: false
+    enabled: true
     public_port_start: 35000
